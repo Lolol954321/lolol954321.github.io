@@ -3421,7 +3421,7 @@ input, select, textarea {
 	}
 
 		#intro .logo:before {
-			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160px' height='160px' viewBox='0 0 100 100' preserveAspectRatio='none' zoomAndPan='disable'%3E%3C/svg%3E");
+			/* background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160px' height='160px' viewBox='0 0 100 100' preserveAspectRatio='none' zoomAndPan='disable'%3E%3C/svg%3E"); */
 			background-position: top left;
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
