@@ -3109,7 +3109,7 @@ input, select, textarea {
 /* Header */
 
 	body {
-		padding-top: 3.5em;
+		padding-top: 4.0em;
 	}
 
 	#header {
@@ -3122,10 +3122,10 @@ input, select, textarea {
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background-color: #ffffff;
-		border-bottom: solid 1px rgba(160, 160, 160, 0.3);
-		height: 3.5em;
+		border-bottom: solid 1px rgba(160, 160, 160, 0.8);
+		height: 4.0em;
 		left: 0;
-		line-height: 3.5em;
+		line-height: 4.0em;
 		position: fixed;
 		top: 0;
 		width: 100%;
@@ -3156,7 +3156,7 @@ input, select, textarea {
 		}
 
 			#header h1 a {
-				font-size: 0.7em;
+				font-size: 1.0em;
 			}
 
 		#header .links {
@@ -3174,7 +3174,7 @@ input, select, textarea {
 
 			#header .links ul li {
 				border-left: solid 1px rgba(160, 160, 160, 0.3);
-				line-height: 1;
+				line-height: 1.2;
 				margin-left: 1em;
 				padding-left: 1em;
 			}
@@ -3188,8 +3188,8 @@ input, select, textarea {
 				#header .links ul li a {
 					border-bottom: 0;
 					font-family: "Raleway", Helvetica, sans-serif;
-					font-size: 0.7em;
-					font-weight: 400;
+					font-size: 0.86em;
+					font-weight: 480;
 					letter-spacing: 0.25em;
 					text-transform: uppercase;
 				}
